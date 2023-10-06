@@ -2,6 +2,8 @@
 
 #this is where you can know what i do, what can i do :)
 
+<canvas id="mtw-canvas" style="width:100vw;height:100vh;left:0;top:0;position:fixed;"></canvas>
+<script src="https://cdn.jsdelivr.net/gh/mythemeway/mtw-canvas-disks@0.0.2/boilerplate-canvas/twgl/canvas.bundle.min.js"></script>
 @keyframes color {
   0%   { background: #33CCCC; }
   20%  { background: #33CC36; }
